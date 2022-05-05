@@ -1,0 +1,141 @@
+payment_type,country,count,total,total_successful
+Bank,Argentina,2438,3737,3524
+Bank,Australia,1426,2500,2332
+Bank,Belgium,2200,3632,3481
+Bank,Brazil,2113,3526,3344
+Bank,Canada,3436,5378,5095
+Bank,China,4492,7038,6712
+Bank,Colombia,2399,4071,3919
+Bank,Egypt,1629,2817,2689
+Bank,France,2475,3763,3571
+Bank,Germany,2144,3258,3119
+Bank,Greece,2293,3706,3541
+Bank,India,6637,10561,10113
+Bank,Indonesia,4134,6213,5922
+Bank,Iran,1445,2618,2459
+Bank,Ireland,2227,3739,3563
+Bank,Israel,1506,2512,2419
+Bank,Italy,2093,3478,3289
+Bank,Japan,1324,2154,2066
+Bank,Mexico,3442,5496,5219
+Bank,Netherlands,2288,3825,3651
+Bank,Norway,2229,3658,3451
+Bank,Pakistan,5445,8252,7866
+Bank,Poland,1659,2874,2647
+Bank,Portugal,2463,4064,3892
+Bank,Russia,1307,2333,2245
+Bank,Scotland,2154,3630,3445
+Bank,South Africa,1412,2441,2306
+Bank,South Korea,1481,2712,2583
+Bank,Spain,2070,3573,3428
+Bank,Sweden,2166,3292,3143
+Bank,Turkey,1470,2607,2492
+Bank,Ukraine,1353,2417,2275
+Bank,United Kingdom,2567,4280,4077
+Bank,United States,3307,5511,5221
+Bank,Venezuela,2577,4162,3951
+Card,Argentina,2483,4235,3958
+Card,Australia,1364,2227,2105
+Card,Belgium,2194,3724,3554
+Card,Brazil,2102,3375,3183
+Card,Canada,3487,5373,5105
+Card,China,4558,7252,6852
+Card,Colombia,2428,4262,4006
+Card,Egypt,1709,2869,2745
+Card,France,2405,4008,3808
+Card,Germany,2246,3670,3524
+Card,Greece,2204,3449,3271
+Card,India,6559,9750,9255
+Card,Indonesia,4044,6396,6033
+Card,Iran,1451,2562,2455
+Card,Ireland,2278,3378,3203
+Card,Israel,1398,2371,2259
+Card,Italy,2095,3214,3003
+Card,Japan,1272,2286,2150
+Card,Mexico,3148,4737,4514
+Card,Netherlands,2315,3799,3581
+Card,Norway,2118,3466,3259
+Card,Pakistan,5524,8702,8294
+Card,Poland,1631,2819,2653
+Card,Portugal,2371,3866,3593
+Card,Russia,1329,2277,2187
+Card,Scotland,2175,3370,3153
+Card,South Africa,1454,2385,2289
+Card,South Korea,1519,2495,2358
+Card,Spain,2061,3295,3127
+Card,Sweden,2098,3395,3216
+Card,Turkey,1472,2395,2278
+Card,Ukraine,1368,2322,2207
+Card,United Kingdom,2565,4086,3879
+Card,United States,3348,5342,5099
+Card,Venezuela,2521,3953,3757
+Paypal,Argentina,2506,3920,3702
+Paypal,Australia,1407,2283,2158
+Paypal,Belgium,2214,3529,3325
+Paypal,Brazil,2042,3369,3189
+Paypal,Canada,3418,5419,5157
+Paypal,China,4619,7292,6938
+Paypal,Colombia,2462,3917,3740
+Paypal,Egypt,1680,2711,2544
+Paypal,France,2431,4095,3901
+Paypal,Germany,2222,3512,3325
+Paypal,Greece,2214,3555,3371
+Paypal,India,6569,9914,9440
+Paypal,Indonesia,4081,6124,5789
+Paypal,Iran,1406,2296,2192
+Paypal,Ireland,2285,3561,3381
+Paypal,Israel,1370,2218,2112
+Paypal,Italy,2123,3233,3052
+Paypal,Japan,1263,2130,1990
+Paypal,Mexico,3208,4909,4706
+Paypal,Netherlands,2203,3689,3484
+Paypal,Norway,2160,3469,3289
+Paypal,Pakistan,5503,8378,7906
+Paypal,Poland,1680,2811,2711
+Paypal,Portugal,2506,4086,3872
+Paypal,Russia,1318,2180,2098
+Paypal,Scotland,2173,3613,3431
+Paypal,South Africa,1453,2617,2495
+Paypal,South Korea,1516,2580,2404
+Paypal,Spain,1982,3151,3013
+Paypal,Sweden,2034,3454,3302
+Paypal,Turkey,1388,2315,2202
+Paypal,Ukraine,1353,2298,2173
+Paypal,United Kingdom,2501,4041,3806
+Paypal,United States,3363,5229,5005
+Paypal,Venezuela,2423,3918,3768
+UPI,Argentina,2392,4049,3835
+UPI,Australia,1443,2659,2530
+UPI,Belgium,2159,3668,3449
+UPI,Brazil,2111,3430,3228
+UPI,Canada,3383,5298,5057
+UPI,China,4408,6680,6303
+UPI,Colombia,2414,3865,3679
+UPI,Egypt,1639,2693,2590
+UPI,France,2607,4203,4033
+UPI,Germany,2138,3513,3348
+UPI,Greece,2177,3612,3451
+UPI,India,6533,9976,9547
+UPI,Indonesia,3973,6329,6050
+UPI,Iran,1405,2422,2340
+UPI,Ireland,2346,3968,3770
+UPI,Israel,1502,2695,2595
+UPI,Italy,2070,3270,3181
+UPI,Japan,1303,2242,2133
+UPI,Mexico,3228,5028,4798
+UPI,Netherlands,2196,3435,3259
+UPI,Norway,2186,3333,3199
+UPI,Pakistan,5529,8440,8030
+UPI,Poland,1611,2388,2304
+UPI,Portugal,2474,3794,3592
+UPI,Russia,1362,2549,2417
+UPI,Scotland,2193,3642,3461
+UPI,South Africa,1420,2534,2362
+UPI,South Korea,1526,2619,2529
+UPI,Spain,2036,3235,3088
+UPI,Sweden,2170,3548,3390
+UPI,Turkey,1445,2642,2511
+UPI,Ukraine,1328,2389,2294
+UPI,United Kingdom,2524,4361,4156
+UPI,United States,3279,5264,5015
+UPI,Venezuela,2496,4195,3972

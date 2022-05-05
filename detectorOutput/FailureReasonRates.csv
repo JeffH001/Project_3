@@ -1,0 +1,11 @@
+failure_reason,count
+Incorrect Credentials,696
+Out of Funds,698
+PayPal Service Down,738
+Card Expired,877
+Card Information Incorrect,897
+Invalid Routing Number,1647
+Bank Account Suspended,1698
+Connection Interrupted,3217
+Fraud,3223
+Server Maintenance,3228
