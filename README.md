@@ -1,4 +1,4 @@
-**Note:** This is a clone of [the original project](https://github.com/Big-Data-Capstone-1283/capstone-team-2).  The code I wrote for this project is mainly in the (`src/main/scala/detector` folder)[https://github.com/JeffH001/Project_3/tree/main/src/main/scala/detector], plus the (`WeightedRandomizer.scala` code)[https://github.com/JeffH001/Project_3/blob/main/src/main/scala/producer/WeightedRandomizer.scala].
+**Note:** This is a clone of [the original project](https://github.com/Big-Data-Capstone-1283/capstone-team-2).  The code I wrote for this project is mainly in the [`src/main/scala/detector` folder](https://github.com/JeffH001/Project_3/tree/main/src/main/scala/detector), plus the [`WeightedRandomizer.scala` code](https://github.com/JeffH001/Project_3/blob/main/src/main/scala/producer/WeightedRandomizer.scala).
 
 # Big Data Capstone Project
 ## Table of Contents
